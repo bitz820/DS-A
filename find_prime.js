@@ -17,4 +17,4 @@ function sumPrimes(num) {
       }
     }
     return (sum);
-  
+}
